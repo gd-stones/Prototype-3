@@ -36,6 +36,7 @@ public class PlayerController : MonoBehaviour
             playerAnim.SetTrigger("Jump_trig");
             dirtParticle.Stop();
             playerAudio.PlayOneShot(jumpSound, 1.0f);
+            // sdklfhldshjflshjflsjflslfh
         }
     }
 
